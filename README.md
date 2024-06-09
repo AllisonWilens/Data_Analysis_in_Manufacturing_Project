@@ -17,14 +17,13 @@ mysql_queries.sql: Collection of MySQL queries used for data extraction and anal
 final_presentation.pptx: PowerPoint presentation summarizing the project, analysis, findings, and recommendations.
 
 Column Descriptions:
-
 prod_data.txt
 
 Column Name	Description:
-
 Contains Column names with Description.
 
 Project Data:
+
 File: prod_data.txt
 This file contains all the necessary production data for the project. It includes various columns related to production metrics, machine performance, and operational efficiency.
 
@@ -44,5 +43,6 @@ File: mysql_queries.sql
 This file contains SQL queries used to extract and analyze the production data from the database. Queries include data aggregation, filtering, and calculations necessary for the analysis.
 
 Final Presentation:
+
 File: final_presentation.pptx
 The final presentation provides a comprehensive overview of the project, including methodology, data analysis, key findings, KPIs, and actionable recommendations. It is designed to communicate the results effectively to stakeholders.
