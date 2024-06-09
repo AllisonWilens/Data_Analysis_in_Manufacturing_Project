@@ -1,9 +1,11 @@
 Manufacturing Data Analysis Project
 
 Project Overview:
+
 This project focuses on performing comprehensive data analysis to optimize production processes and improve operational efficiency in manufacturing. Key components include data preprocessing, KPI development, and the creation of interactive dashboards using Excel, Tableau, and Power BI. Additionally, MySQL queries were used for database interactions, and a final presentation was made to summarize the findings and recommendations.
 
 Files Included:
+
 column_description.txt: Detailed descriptions of each column in the dataset.
 manufacturing_kpis.pptx: PowerPoint presentation of the key performance indicators (KPIs) for manufacturing.
 prod_data.txt: The dataset used for the project, containing production data.
@@ -15,9 +17,11 @@ mysql_queries.sql: Collection of MySQL queries used for data extraction and anal
 final_presentation.pptx: PowerPoint presentation summarizing the project, analysis, findings, and recommendations.
 
 Column Descriptions:
+
 prod_data.txt
 
 Column Name	Description:
+
 Contains Column names with Description.
 
 Project Data:
