@@ -1,5 +1,7 @@
 Manufacturing Data Analysis Project
 
+Allison: This is a forked copy of this project that I am adding to.
+
 Project Overview:
 
 This project focuses on performing comprehensive data analysis to optimize production processes and improve operational efficiency in manufacturing. Key components include data preprocessing, KPI development, and the creation of interactive dashboards using Excel, Tableau, and Power BI. Additionally, MySQL queries were used for database interactions, and a final presentation was made to summarize the findings and recommendations.
